@@ -24,7 +24,7 @@ Starter for Forms with Formik in Create React App and Styled Components on TypeS
 
 ## Direct ancestors
 
-[-formik: cra-ie11-ts-starter](https://github.com/softspiders/cra-ts-ie11-starter)
+[-*formik*: cra-ie11-ts-starter](https://github.com/softspiders/cra-ts-ie11-starter)
 
 
 ---
