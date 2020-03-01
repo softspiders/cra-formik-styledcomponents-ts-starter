@@ -22,6 +22,10 @@ Starter for Forms with Formik in Create React App and Styled Components on TypeS
 
 ---
 
+## Inspired by
+
+[Forms with Formik + TypeScript](https://medium.com/fotontech/forms-with-formik-typescript-d8154cc24f8a) article
+
 ## Direct ancestors
 
 [-*formik*, *styled-components*: cra-ie11-ts-starter](https://github.com/softspiders/cra-ts-ie11-starter)
