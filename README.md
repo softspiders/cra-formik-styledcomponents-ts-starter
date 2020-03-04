@@ -1,6 +1,6 @@
 # cra-formik-styledcomponents-ts-starter
 
-Starter for Forms with Formik in Create React App and Styled Components on TypeScript
+Starter for *Create React App*  with *Formik* and *Styled Components* on *TypeScript*
 
 ---
 
