@@ -32,7 +32,7 @@ Starter for Forms with Formik in Create React App and Styled Components on TypeS
 
 ## Direct descendants
 
-[+***context-api***, ***maven***, ***state-management***, ***war***: cra-contextapi-formik-styledcomponents-ts-starter](https://github.com/softspiders/cra-contextapi-formik-styledcomponents-ts-starter)
+[+***context-api***, ***maven***, ***state-management***, ***war***: cra-contextapi-formik-sc-sm-ts-starter](https://github.com/softspiders/cra-contextapi-formik-sc-sm-ts-starter)
 
 ---
 
