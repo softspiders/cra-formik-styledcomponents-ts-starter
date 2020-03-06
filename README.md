@@ -14,6 +14,14 @@ Starter for *Create React App*  with *Formik* and *Styled Components* on *TypeSc
 - template
 - typescript
 
+## Direct ancestors
+
+[**-formik, styled-components**](https://github.com/softspiders/cra-ts-ie11-starter)
+
+## Direct descendants
+
+[**+context-api, maven, state-management, war***](https://github.com/softspiders/cra-contextapi-formik-sc-sm-ts-starter)
+
 ---
 
 ## Authors
@@ -25,14 +33,6 @@ Starter for *Create React App*  with *Formik* and *Styled Components* on *TypeSc
 ## Inspired by
 
 [Forms with Formik + TypeScript](https://medium.com/fotontech/forms-with-formik-typescript-d8154cc24f8a) article
-
-## Direct ancestors
-
-[**-formik, styled-components**](https://github.com/softspiders/cra-ts-ie11-starter)
-
-## Direct descendants
-
-[**+context-api, maven, state-management, war***](https://github.com/softspiders/cra-contextapi-formik-sc-sm-ts-starter)
 
 ---
 
