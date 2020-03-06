@@ -28,11 +28,11 @@ Starter for *Create React App*  with *Formik* and *Styled Components* on *TypeSc
 
 ## Direct ancestors
 
-[-***formik***, ***styled-components***: cra-ie11-ts-starter](https://github.com/softspiders/cra-ts-ie11-starter)
+[**-formik, styled-components**](https://github.com/softspiders/cra-ts-ie11-starter)
 
 ## Direct descendants
 
-[+***context-api***, ***maven***, ***state-management***, ***war***: cra-contextapi-formik-sc-sm-ts-starter](https://github.com/softspiders/cra-contextapi-formik-sc-sm-ts-starter)
+[**+context-api, maven, state-management, war***](https://github.com/softspiders/cra-contextapi-formik-sc-sm-ts-starter)
 
 ---
 
