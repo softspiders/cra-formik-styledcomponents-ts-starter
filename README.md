@@ -16,8 +16,8 @@ Starter for *Create React App*  with *Formik* and *Styled Components* on *TypeSc
 
 ## Parents
 
-[**-formik**](https://github.com/softspiders/formik-ts-starter)
-[**-styled-components**](https://github.com/softspiders/styledcomponents-ts-starter)
+- [**-formik**](https://github.com/softspiders/formik-ts-starter)
+- [**-styled-components**](https://github.com/softspiders/styledcomponents-ts-starter)
 
 
 ## Children
