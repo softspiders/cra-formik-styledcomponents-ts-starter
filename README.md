@@ -20,7 +20,7 @@ Starter for *Create React App*  with *Formik* and *Styled Components* on *TypeSc
 
 ## Direct descendants
 
-[**+context-api, maven, state-management, war***](https://github.com/softspiders/cra-contextapi-formik-sc-sm-ts-starter)
+[**+context-api, maven, state-management, war**](https://github.com/softspiders/cra-contextapi-formik-sc-sm-ts-starter)
 
 ---
 
