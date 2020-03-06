@@ -1,6 +1,6 @@
 # cra-formik-styledcomponents-ts-starter
 
-Starter for *Create React App*  with ***Formik*** and ***Styled Components*** on *TypeScript*
+Starter for *Create React App*  with ***Formik*** and ***Styled Components*** on *TypeScript* with *IE11* support
 
 ---
 
