@@ -32,7 +32,7 @@ Starter for *Create React App*  with *Formik* and *Styled Components* on *TypeSc
 
 ## Inspired by
 
-[Forms with Formik + TypeScript](https://medium.com/fotontech/forms-with-formik-typescript-d8154cc24f8a) article
+[Forms with Formik + TypeScript](https://medium.com/fotontech/forms-with-formik-typescript-d8154cc24f8a)
 
 ---
 
